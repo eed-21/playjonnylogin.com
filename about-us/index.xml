@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us — Independent iGaming Reviews by Real Players on playjonnylogin</title>
-    <link>http://localhost:1313/about-us/</link>
+    <link>https://playjonnylogin.com/about-us/</link>
     <description>Recent content in About Us — Independent iGaming Reviews by Real Players on playjonnylogin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://playjonnylogin.com/about-us/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
