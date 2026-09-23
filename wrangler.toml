@@ -1,0 +1,11 @@
+name = "playjonnylogin-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonnylogin.com"
+HMAC_KEY = "749beb469445373b77286b2a5c82f751c5519ae95cbba10f85be5f677b0bfc44"
+COOKIE_NAME = "r5o"
+PLAY_PATH = "start"
+BUTTON_ID = "pbd19a08c804f6876446f9a6f12cf9e4b"
+GATE_SALT = "0880998bd67a7741"
